@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\ContosoPizza.csproj": {}
+    "d:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "D:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\ContosoPizza.csproj": {
+    "d:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "d:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "D:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "d:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\mogha\\.nuget\\packages\\",
-        "outputPath": "D:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\obj\\",
+        "outputPath": "d:\\projects-post-bootcamp\\c#_.net\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mogha\\AppData\\Roaming\\NuGet\\NuGet.Config",
